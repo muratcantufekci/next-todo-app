@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+![image](https://user-images.githubusercontent.com/60794840/229920140-29801fbf-6e53-45f6-8409-7a4222f5f6f0.png)
+
+This is a [Next.js](https://nextjs.org/) todo app 
 
 ## Getting Started
 
