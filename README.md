@@ -3,6 +3,8 @@
 
 This is a [Next.js](https://nextjs.org/) todo app 
 
+Live on : https://muratcantufekci-next-todo-app.netlify.app/
+
 ## Getting Started
 
 First, run the development server:
